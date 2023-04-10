@@ -1,0 +1,7 @@
+EbookLib==0.18
+beautifulsoup4==4.11.2
+transformers==4.27.1
+datasets==2.10.1
+torch==2.0.0
+sentencepiece==0.1.97
+sacremoses==0.0.53
